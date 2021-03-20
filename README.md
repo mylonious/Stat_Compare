@@ -8,8 +8,12 @@ as is the current version of the program is very rough and may behave oddly due 
 
 #COMMANDS
 
-mak/sim : auto = testing function - creates list of creatures and graph comparing stat growth
-cre : create npc - assign stat affinty / element
+mak/sim : auto = testing function - 
+creates list of creatures and graph comparing stat growth.
+
+cre : create npc - assign stat affinty / element.
+
 set : change xp per level / spread settings 
+
 csv : create .csv of creatures to level (in settings) 
 
