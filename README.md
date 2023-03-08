@@ -1,4 +1,4 @@
-# RPG_Stat_Compare
+#Stat_Compare
 
 I used this script to compare formulas for stat growth in a personal game project.
 
